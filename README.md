@@ -22,7 +22,7 @@ Features include:
 
 A simple guide has been written to assist in hosting your own instance of movie-web.
 
-Check it out here: [https://github.com/movie-web/movie-web/blob/dev/SELFHOSTING.md](https://github.com/oqiljonnishonov/movie-web/blob/main/SELFHOSTING.md)
+Check it out here: [https://github.com/oqiljonnishonov/movie-web/blob/main/SELFHOSTING.md](https://github.com/oqiljonnishonov/movie-web/blob/main/SELFHOSTING.md)
 
 ## Running locally for development
 
@@ -30,7 +30,7 @@ To run this project locally for contributing or testing, run the following comma
 <h5><b>note: must use yarn to install packages and run NodeJS 16</b></h5>
 
 ```bash
-git clone https://github.com/movie-web/movie-web
+git clone https://github.com/oqiljonnishonov/movie-web.git
 cd movie-web
 yarn install
 yarn dev
